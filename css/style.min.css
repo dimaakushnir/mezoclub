@@ -2927,6 +2927,7 @@ h6 {
     -o-transition: all 0.3s ease 0s;
     transition: all 0.3s ease 0s;
     transform: translate(-12px, 0);
+    box-shadow: none;
   }
   .mobile-header__body .submenu.active {
     display: block;
@@ -11519,7 +11520,7 @@ h6 {
     transform: translate(calc(-50% + 30px), 0);
   }
 }
-@media (max-width: 380px) {
+@media (max-width: 389.98px) {
   .fullscreen__img {
     transform: translate(0, 0);
     left: auto;
